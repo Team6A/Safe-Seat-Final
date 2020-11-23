@@ -1,0 +1,83 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "app_pic.png",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "PhoneWeatherPhoto",
+        "Elements",
+        "lblPhone2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "PhoneWeatherPhoto",
+        "Elements",
+        "btnReserve.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "PhoneWeatherPhoto",
+        "Elements",
+        "txtWeather.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "PhoneWeatherPhoto",
+        "Elements",
+        "btnWeather.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "PhoneWeatherPhoto",
+        "Elements",
+        "titleOfAppCopy1.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 460,
+  "designWidth": 320,
+  "expanded_pmp": null,
+  "fullScreen": "zoom",
+  "height": 460,
+  "id": "PhoneWeatherPhoto",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "Form1.onshow()",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "fixed",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}

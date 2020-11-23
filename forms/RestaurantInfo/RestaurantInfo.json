@@ -1,0 +1,119 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "#dad1eb",
+  "backgroundimage": "app_pic.png",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "RestaurantInfo",
+        "Elements",
+        "lblLocation.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "RestaurantInfo",
+        "Elements",
+        "lblPrice.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "RestaurantInfo",
+        "Elements",
+        "lblRating.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "RestaurantInfo",
+        "Elements",
+        "lblType.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "RestaurantInfo",
+        "Elements",
+        "lblHours.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "RestaurantInfo",
+        "Elements",
+        "btnHome.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "RestaurantInfo",
+        "Elements",
+        "btnMoreInfo.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "RestaurantInfo",
+        "Elements",
+        "titleOfAppCopy3.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "RestaurantInfo",
+        "Elements",
+        "lblName.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "zoom",
+  "height": "460",
+  "id": "RestaurantInfo",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "RestaurantInfo.onshow()",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "fixed",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
